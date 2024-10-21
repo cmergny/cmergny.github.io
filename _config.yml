@@ -25,14 +25,14 @@ author:
   name             : "Cyril Mergny"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Orsay, France"
+  employer         : "Université Paris-Saclay"
   uri              : # URL
   email            : "cyril.mergny@universite-paris-saclay.fr" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Mergny%2C+C"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=POF7E10AAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-1910-6991"
   semantic         : # URL

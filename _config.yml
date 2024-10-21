@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Planetary Ices"
+title                    : "Cyril Mergny's Webpage"
 title_separator          : "-"
 name                     : &name "Cyril Mergny"
 description              : &description "Dr. in Planetary Science"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Cyril Mergny"
   pronouns         : # example: "she/her"  
-  bio              : "Ice Microstructure on Planetary Surfaces"
+  bio              : "Dr. Ice Microstructure on Planetary Surfaces"
   location         : "Orsay, France"
   employer         : "Université Paris-Saclay"
   uri              : # URL

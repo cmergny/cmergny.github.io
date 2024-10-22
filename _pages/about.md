@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: right">
+
   
 Microstructure
 ======
@@ -35,4 +35,4 @@ The core concept of my research is to integrate the various physical phenomena t
 <img src="/images/lunaicy.png" alt="drawing" width="75%" class="center"/>
 </p>
 
-</div>
+

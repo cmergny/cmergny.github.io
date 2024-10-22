@@ -14,9 +14,11 @@ redirect_from:
 Education
 ======
 
+
+* **01/10/2024 – Present**, Postdoctoral position at GEOsciences Paris-Saclay (GEOPS),  UMR 8148, Paris-Saclay University, Orsay, FRANCE 
   
-* **01/10/2021 – Present**, Ph.D. in Planetary Science, supervisor: Prof. Frédéric Schmidt, GEOsciences Paris-Saclay (GEOPS),  UMR 8148, Paris-Saclay University, Orsay, FRANCE 
-  - Ph.D. contract ends on 30/09/2024, followed by a post-doc contract at GEOPS from 01/10/2024 to 01/03/2025
+* **01/10/2021 – 30/09/2024**, Ph.D. in Planetary Science, supervisor: Prof. Frédéric Schmidt, GEOsciences Paris-Saclay (GEOPS),  UMR 8148, Paris-Saclay University, Orsay, FRANCE 
+ 
   - Ph.D. funded through the highly competitive grant ”Contrat Doctoral Spécifique Normalien”, awarded to top students from ENS Lyon.
 
 * **01/09/2020 – 01/09/2021**, ENS “Long Research Project”, one-year program, undertaken after obtaining the master’s degree, involved in-depth research training with two long research internships (see Professional Experience) and a minimum of 200 hours of training, Ecole Normale Supérieure de Lyon (ENS Lyon),  Lyon, FRANCE

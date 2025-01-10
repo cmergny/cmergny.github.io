@@ -15,10 +15,10 @@ author_profile: true
 
 Published
 =======
-
-* **C. Mergny** and F. Schmidt, LunaIcy: Exploring Europa's Icy Surface Microstructure through Multiphysics Simulations, The Planetary Science Journal (PSJ), Vol. 5, DOI: [10.3847/PSJ/ad6d6d](https://iopscience.iop.org/article/10.3847/PSJ/ad6d6d) ,  2024
-* **C. Mergny** and F. Schmidt, MultIHeaTS: a Fast and Stable Thermal Solver for Multilayered Planetary Surfaces, The Planetary Science Journal (PSJ), Vol. 5,  DOI: [10.3847/PSJ/ad6d6e](https://iopscience.iop.org/article/10.3847/PSJ/ad6d6e), 2024
-* **C. Mergny** and F. Schmidt, Gravity-Induced Ice Compaction and Subsurface Porosity on Icy Moons, Icarus, Vol. 413,  DOI: [10.1016/j.icarus.2024.116008](https://doi.org/10.1016/j.icarus.2024.116008), 2024
+* **C. Mergny**, F. Schmidt, F. Andrieu and I. Belgacem, *A Bond albedo map of Europa*, Letter to A&A, Accepted for Publication on 08/01/2025
+* **C. Mergny** and F. Schmidt, *LunaIcy: Exploring Europa's Icy Surface Microstructure through Multiphysics Simulations*, The Planetary Science Journal (PSJ), Vol. 5, DOI: [10.3847/PSJ/ad6d6d](https://iopscience.iop.org/article/10.3847/PSJ/ad6d6d) ,  2024
+* **C. Mergny** and F. Schmidt, *MultIHeaTS: a Fast and Stable Thermal Solver for Multilayered Planetary Surfaces*, The Planetary Science Journal (PSJ), Vol. 5,  DOI: [10.3847/PSJ/ad6d6e](https://iopscience.iop.org/article/10.3847/PSJ/ad6d6e), 2024
+* **C. Mergny** and F. Schmidt, *Gravity-Induced Ice Compaction and Subsurface Porosity on Icy Moons*, Icarus, Vol. 413,  DOI: [10.1016/j.icarus.2024.116008](https://doi.org/10.1016/j.icarus.2024.116008), 2024
 * P. Auclair-Desrotour, J. Leconte, and **C. Mergny** (analytical modeling), Generic frequency dependence of the atmospheric tidal torque of terrestrial planets, Astronomy and Astrophysics (A&A), Vol. 624, DOI: [10.1051/0004-6361/201834685](https://doi.org/10.1051/0004-6361/201834685) Bachelor internship in 2019
 
 

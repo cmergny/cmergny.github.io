@@ -11,11 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-*Last updated on October 2024*
+*Last updated on January 2025*
 
 Published
 =======
-* **C. Mergny**, F. Schmidt, F. Andrieu and I. Belgacem, *A Bond albedo map of Europa*, Letter to A&A, Accepted for Publication on 08/01/2025
+* **C. Mergny**, F. Schmidt, F. Andrieu and I. Belgacem, *A Bond albedo map of Europa*, Letter to A&A, accepted for publication on 08/01/2025
 * **C. Mergny** and F. Schmidt, *LunaIcy: Exploring Europa's Icy Surface Microstructure through Multiphysics Simulations*, The Planetary Science Journal (PSJ), Vol. 5, DOI: [10.3847/PSJ/ad6d6d](https://iopscience.iop.org/article/10.3847/PSJ/ad6d6d) ,  2024
 * **C. Mergny** and F. Schmidt, *MultIHeaTS: a Fast and Stable Thermal Solver for Multilayered Planetary Surfaces*, The Planetary Science Journal (PSJ), Vol. 5,  DOI: [10.3847/PSJ/ad6d6e](https://iopscience.iop.org/article/10.3847/PSJ/ad6d6e), 2024
 * **C. Mergny** and F. Schmidt, *Gravity-Induced Ice Compaction and Subsurface Porosity on Icy Moons*, Icarus, Vol. 413,  DOI: [10.1016/j.icarus.2024.116008](https://doi.org/10.1016/j.icarus.2024.116008), 2024

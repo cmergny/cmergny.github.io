@@ -38,37 +38,5 @@ The core concept of my research is to integrate the various physical phenomena t
 </p>
 
 
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<div id="plot"></div>
-<script>
-  function updatePlot() {
-    var a = document.getElementById('a').value;
-    var b = document.getElementById('b').value;
-    var x = [...Array(100).keys()].map(i => i / 10 - 5); // Range from -5 to 5
-    var y = x.map(x => a * x * x + b);
-
-    var trace = {
-      x: x,
-      y: y,
-      mode: 'lines',
-      type: 'scatter'
-    };
-
-    var layout = {
-      title: 'Interactive Plot',
-      xaxis: { title: 'x' },
-      yaxis: { title: 'f(x)' }
-    };
-
-    Plotly.newPlot('plot', [trace], layout);
-  }
-
-  document.getElementById('updateButton').addEventListener('click', updatePlot);
-</script>
-
-<input type="number" id="a" placeholder="Enter value for a">
-<input type="number" id="b" placeholder="Enter value for b">
-<button id="updateButton">Update Plot</button>
-
 
 

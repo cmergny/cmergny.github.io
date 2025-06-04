@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Webpage's Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Cyril Mergny"
 description              : &description "Dr. in Planetary Science"
@@ -25,10 +25,10 @@ author:
   name             : "Dr. Cyril Mergny"
   pronouns         : # example: "she/her"  
   bio              : "Post-Doc in Planetary Science"
-  location         : "Orsay, France"
-  employer         : "Université Paris-Saclay"
+  location         : "Madrid, Spain"
+  employer         : "European Space Agency (ESA)"
   uri              : # URL
-  email            : "cyril.mergny@universite-paris-saclay.fr" 
+  email            : "mergny.cyril@protonmail.com" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Mergny%2C+C"

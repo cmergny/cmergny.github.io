@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "        Home"
+#title                    : "Webpage's Home"
+title                    : "My Research"
 title_separator          : "-"
 name                     : &name "Cyril Mergny"
 description              : &description "Dr. in Planetary Science"

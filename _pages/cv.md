@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*Last updated on October 2024. For Publications and Teaching details, refer to their specific tab.*
+*Last updated on June 2025. For Publications and Teaching details, refer to their specific tab.*
 
 Professional experience:
 ======

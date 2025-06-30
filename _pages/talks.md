@@ -5,7 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+- **2025**, LunaIcy, a Multiphysics Surface Model for the study of icy surfaces, **Invited Talk** (EGU), Vienna, AUSTRIA
 
+- **2025**, Multiphysics Simulations of Ice Microstructure, **Invited Talk** (New Horizons Science Team
+Meeting), Baltimore, USA (remote)
+
+- **2025**, Multiphysics Simulations of Ice Microstructure, **Invited Seminar** (ESAC), Madrid, SPAIN
 
 - **2024**, Active Sintering on Europa Over a Million-Year Timescale, Europlanet Science Congress (EPSC), Berlin, GERMANY
 

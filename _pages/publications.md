@@ -11,10 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-*Last updated on January 2025*
+*Last updated on June 2025*
 
 Published
 =======
+* **C. Mergny**, F. Schmidt and F. Keil, *The blinking crystallinity of Europa: A competition between irradiation and thermal alteration*, Icarus, Vol. 441, DOI: [10.1016/j.icarus.2025.116700](https://doi.org/10.1016/j.icarus.2025.116700), 2025
 * **C. Mergny**, F. Schmidt, F. Andrieu and I. Belgacem, *A Bond albedo map of Europa*, A&A Letter to the Editor, Vol. 693, DOI: [10.1051/0004-6361/202453058](https://doi.org/10.1051/0004-6361/202453058), 2025
 * **C. Mergny** and F. Schmidt, *LunaIcy: Exploring Europa's Icy Surface Microstructure through Multiphysics Simulations*, The Planetary Science Journal (PSJ), Vol. 5, DOI: [10.3847/PSJ/ad6d6d](https://iopscience.iop.org/article/10.3847/PSJ/ad6d6d) ,  2024
 * **C. Mergny** and F. Schmidt, *MultIHeaTS: a Fast and Stable Thermal Solver for Multilayered Planetary Surfaces*, The Planetary Science Journal (PSJ), Vol. 5,  DOI: [10.3847/PSJ/ad6d6e](https://iopscience.iop.org/article/10.3847/PSJ/ad6d6e), 2024

@@ -30,14 +30,14 @@ Professional experience:
 
 * **Spring Semester 2019**, Master’s first-year-level research internship at the University of British Columbia (UBC), Subject: Influence of Source Conditions on the Entrainment Rate of Volcanic Plumes, supervised by Prof. Mark Jellinek, Vancouver, CANADA
 
-* **Sept. 2018 – Aug. 202-**, Master’s degree in Physics and Chemistry, graduated with Honors, Ecole Normale Supérieure de Lyon (ENS Lyon),  Lyon, FRANCE
+* **Sept. 2018 – Aug. 2020**, Master’s degree in Physics and Chemistry, graduated with Honors, Ecole Normale Supérieure de Lyon (ENS Lyon),  Lyon, FRANCE
   
 * **Summer 2018**, Bachelor’s level research internship at the Laboratoire d’Astrophysique de Bordeaux (LAB), Subject: Study of Atmospheric Tides and their Inﬂuence on the Rotation of Terrestrial Planets, supervised by Dr. Pierre Auclair-Desrotour and Dr. Jeremy Leconte, Bordeaux, FRANCE
 
 * **Sept. 2017**,  Integrated into the highly competitive École Normale Supérieure de Lyon (ENS Lyon) 
 
 
-Research Related Activities and Outreachcom
+Research Related Activities and Outreach
 ======
 * **2025**, Member of the Local Organizing Committee (LOC) for the ESA workshop proposal "Jovian Icy Moons' Surface Interactions with Their Environment". Lead by my collaborator Dr. Cruz-Mermy and Dr.  Robidel at ESAC, Madrid, SPAIN
 * **2023**, Chair of the sessions "Galilean Satellites: Scratching the Surface" and “Icy Moons Interior and Ice Shell” at EPSC-DPS 2024 in Texas, USA

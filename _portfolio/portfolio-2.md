@@ -1,7 +1,7 @@
 ---
 title: "Bond Albedo Map of Europa"
-excerpt: "A new Bond albedo map of Europa obtained by combining the complete set of angular observations with a high-resolution mosaic of images."
-collection: portfolio
+excerpt: "A new Bond albedo map of Europa obtained by combining the complete set of angular observations with a high-resolution mosaic of images.<br/><img src='/images/bond_europa'>"
+collection: Highlights
 ---
 
 The Bond albedo was determined in our article DOI [10.1051/0004-6361/202453058](https://doi.org/10.1051/0004-6361/202453058) for 20 regions of interest (ROIs) based on Voyager and New Horizons data using Hapke parameters. By correlating these values with the average pixel intensities for each ROI on the USGS map, we determined a linear relationship between the Bond albedo and pixel intensity.

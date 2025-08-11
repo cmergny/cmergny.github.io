@@ -1,0 +1,61 @@
+---
+title: "Isothermal Sintering Simulation"
+excerpt: "Results from LunaIcy simulations of isothermal sintering on Europa."
+collection: Highlights
+---
+
+<div id="plotly-chart" style="width:500px;height:500px;"></div>
+
+<script>
+function initPlotlyChart() {
+  const z = [
+    [91, 58, 32, 14, 3.2],
+    [59, 37, 20, 8.4, 1.7],
+    [36, 22, 11, 4.8, 1.1],
+    [28, 16, 8.3, 3.2, 1.0],
+    [23, 13, 6.6, 2.4, 1.0]
+  ];
+
+  const x = [0.4, 0.5, 0.6, 0.7, 0.8]; // Albedo
+  const y = [0.9, 0.8, 0.6, 0.4, 0.2]; // Porosity
+
+  const colorscale = 'RdPu'; // similar to the image
+
+  const heatmap = {
+    z: z,
+    x: x,
+    y: y,
+    type: 'heatmap',
+    colorscale: colorscale,
+    reversescale: false,
+    showscale: true,
+    zmin: 0,
+    zmax: 91
+  };
+
+  // Add numeric annotations
+  const annotations = [];
+  for (let i = 0; i < y.length; i++) {
+    for (let j = 0; j < x.length; j++) {
+      annotations.push({
+        x: x[j],
+        y: y[i],
+        text: z[i][j].toString(),
+        showarrow: false,
+        font: { color: 'black' }
+      });
+    }
+  }
+
+  const layout = {
+    title: 'r_b(x=0,t=tf) / r_b(x=0,t=0)',
+    xaxis: { title: 'Albedo A' },
+    yaxis: { title: 'Porosity φ' },
+    annotations: annotations
+  };
+
+  Plotly.newPlot('plotly-chart', [heatmap], layout);
+}
+</script>
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js" onload="initPlotlyChart();"></script>

@@ -1,6 +1,6 @@
 ---
-title: "Isothermal Sintering Simulation"
-excerpt: "Results from LunaIcy simulations of isothermal sintering on Europa."
+title: "Ice Sintering on Europa"
+excerpt: "Coupled multiphysics simulations results."
 collection: Highlights
 ---
 
@@ -58,4 +58,7 @@ function initPlotlyChart() {
 }
 </script>
 
-<script src="https://cdn.plot.ly/plotly-latest.min.js" onload="initPlotlyChart();"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"
+        onload="initPlotlyChart();"
+        onerror="document.getElementById('plotly-chart').innerText='Failed to load Plotly.';">
+</script>
